@@ -23,12 +23,16 @@ Stanza is currently in beta supporting the majority of the most popular language
 ### Integrated Learning Panel
 Access a library of challenges and track your progress without leaving your IDE.
 
-![banner](./images/branding/react.webp)
+![React courses](./images/branding/react-courses.png)
+
+![React hooks](./images/branding/react-hook.png)
 
 ### Interactive Challenges
 Test the concepts you are learning in the lessons and Stanza verifies your solution instantly.
 
-![banner](./images/branding/python.webp)
+![banner](./images/branding/javascript-test.png)
+
+![banner](./images/branding/go-test.png)
 
 
 ## 🏁 Getting Started
