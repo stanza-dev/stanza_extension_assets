@@ -1,3 +1,5 @@
+### Access to this extension for free here: [VsCode marketplace](https://marketplace.visualstudio.com/items?itemName=stanzadev.stanza)
+
 ![banner](./images/branding/banner.webp)
 
 # Stanza: Micro-learning platform right in your IDE
