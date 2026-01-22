@@ -6,7 +6,7 @@
 
 Stanza brings bite-sized coding challenges, interactive lessons, and skill assessments directly into your IDE,
 
-<video src="https://raw.githubusercontent.com/stanza-dev/stanza_extension_assets/refs/heads/main/videos/stanza-demo-compressed.mp4"></video>
+<video src="./videos/stanza-video-demo.mp4"></video>
 
 Don't be passive while waiting for AI, CI, Tests...
 - Master code while you write it
