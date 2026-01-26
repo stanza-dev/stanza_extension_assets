@@ -8,6 +8,12 @@ Stanza brings bite-sized coding challenges, interactive lessons, and skill asses
 
 https://github.com/user-attachments/assets/47783d67-eb6d-4300-96de-f49cfff973dc
 
+
+
+https://github.com/user-attachments/assets/1c472710-0490-41c8-a6cc-fe81269165e8
+
+
+
 Don't be passive while waiting for AI, CI, Tests...
 - Master code while you write it
 - Master code while you wait for AI
